@@ -371,7 +371,7 @@ dependencies = [
  "httpdate 0.3.2 (registry+https://github.com/rust-lang/crates.io-index)",
  "itoa 0.4.6 (registry+https://github.com/rust-lang/crates.io-index)",
  "pin-project 0.4.23 (registry+https://github.com/rust-lang/crates.io-index)",
- "socket2 0.3.15 (registry+https://github.com/rust-lang/crates.io-index)",
+ "socket2 0.3.19 (registry+https://github.com/rust-lang/crates.io-index)",
  "tokio 0.2.22 (registry+https://github.com/rust-lang/crates.io-index)",
  "tower-service 0.3.0 (registry+https://github.com/rust-lang/crates.io-index)",
  "tracing 0.1.19 (registry+https://github.com/rust-lang/crates.io-index)",
