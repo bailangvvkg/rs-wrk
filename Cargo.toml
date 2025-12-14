@@ -17,3 +17,6 @@ hyper-tls = "0.4"
 openssl = { version = "0.10", features = ["vendored"] }
 tokio = { version = "0.2.6", features = ["macros", "io-std", "time", "rt-core", "rt-threaded"] }
 url = "2.1"
+
+[patch.crates-io]
+socket2 = { version = "0.3.19" }
